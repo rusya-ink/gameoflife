@@ -1,0 +1,16 @@
+C:\Users\paras\source\repos\WpfApp2\WpfApp2\bin\Release\WpfApp2.exe.config
+C:\Users\paras\source\repos\WpfApp2\WpfApp2\bin\Release\WpfApp2.exe
+C:\Users\paras\source\repos\WpfApp2\WpfApp2\bin\Release\WpfApp2.pdb
+C:\Users\paras\source\repos\WpfApp2\WpfApp2\obj\Release\GameWindow.g.cs
+C:\Users\paras\source\repos\WpfApp2\WpfApp2\obj\Release\App.g.cs
+C:\Users\paras\source\repos\WpfApp2\WpfApp2\obj\Release\WpfApp2_MarkupCompile.cache
+C:\Users\paras\source\repos\WpfApp2\WpfApp2\obj\Release\WpfApp2_MarkupCompile.lref
+C:\Users\paras\source\repos\WpfApp2\WpfApp2\obj\Release\GameWindow.baml
+C:\Users\paras\source\repos\WpfApp2\WpfApp2\obj\Release\WpfApp2.g.resources
+C:\Users\paras\source\repos\WpfApp2\WpfApp2\obj\Release\WpfApp2.Properties.Resources.resources
+C:\Users\paras\source\repos\WpfApp2\WpfApp2\obj\Release\WpfApp2.csproj.GenerateResource.cache
+C:\Users\paras\source\repos\WpfApp2\WpfApp2\obj\Release\WpfApp2.csproj.CoreCompileInputs.cache
+C:\Users\paras\source\repos\WpfApp2\WpfApp2\obj\Release\WpfApp2.exe
+C:\Users\paras\source\repos\WpfApp2\WpfApp2\obj\Release\WpfApp2.pdb
+C:\Users\paras\source\repos\WpfApp2\WpfApp2\obj\Release\WpfApp2.csprojAssemblyReference.cache
+C:\Users\paras\source\repos\WpfApp2\WpfApp2\obj\Release\App.baml
